@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html class=" js cssanimations" lang="en"><head><script src="../static/js/user_timeline.json" async=""></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Sokratik | Courses</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+<!-- styles -->
+<link href="../static/css/bootstrap.css" rel="stylesheet">
+<link href="../static/css/bootstrap-responsive.css" rel="stylesheet">
+<link href="../static/css/docs.css" rel="stylesheet">
+<link href="../static/css/prettyPhoto.css" rel="stylesheet">
+<link href="../static/css/prettify.css" rel="stylesheet">
+<link href="../static/css/flexslider.css" rel="stylesheet">
+<link href="../static/css/style.css" rel="stylesheet">
+<link href="../static/css/success.css" rel="stylesheet">
+<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="../static/js/jquery-1.js"></script>
+<script src="../static/js/jquery_004.js"></script>
+<script src="../static/js/prettify.js"></script>
+<script src="../static/js/modernizr.js"></script>
+<script src="../static/js/bootstrap.js"></script>
+<script src="../static/js/jquery_003.js"></script>
+<script src="../static/js/jquery_005.js"></script>
+<script src="../static/js/jquery.js"></script>
+<script src="../static/js/jquery_002.js"></script>
+<script src="../static/js/application.js"></script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script src="selectivizr.js"></script>
+<![endif]-->
+<!-- Portfolio hover -->
+<script src="../static/js/jquery-hover-effect.js"></script>
+<script src="../static/js/setting.js"></script>
+<script src="../static/js/custom.js"></script>
+<!-- fav and touch icons -->
+<link rel="shortcut icon" href="../static/images/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../static/images/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../static/images/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../static/images/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="../static/images/apple-touch-icon-57-precomposed.png">
+</head>
+<body>
+<header>
+<!-- Navbar
+================================================== -->
+<div class="navbar navbar-fixed-top">
+	<div class="navbar-inner">
+		<div class="container" style="padding-bottom:15px">
+			<!-- logo -->
+			<a class="brand logo" href="/index.html">
+			<img src="../static/images/logo.png" alt="">
+			</a>
+			<!-- end logo -->
+			<!-- top menu -->
+			<div>
+				<nav>
+				<ul class="nav topnav">
+					<div class="btn-toolbar cta" style="padding-top:5px;padding-bottom:5px;height:20px">
+							<a class="btn btn-large btn-danger" href="#"><i style="font-size:12.5px;height:12px"></i> Signup</a>
+							<a class="btn btn-large btn-success" href="#"><i style="font-size:12.5px;height:12px"></i> Login</a>
+						</div>
+					
+				</ul>
+				</nav>
+			</div>
+			<!-- end menu -->
+		</div>
+	</div>
+</div>
+</header>
+<section id="bottom" style="margin-top:60px">
+<div class="container">
+	<div class="row">
+		<div class="span12">
+			<h3 class="heading-success"><span class="btn btn-small btn-success" style="padding: 0px 2px"><i class="m-icon-big-swapdown m-icon-white"></i></span>&nbsp;&nbsp;Courses</h3>
+			<div id="latest-work" class="carousel btleft">
+				<div class="carousel-wrapper">
+					<ul style="width: 2400px; display: block; margin-left: 0px;" class="portfolio-home da-thumbs">
+						<li style="margin-right: 30px; width: 270px; height:240px">
+						<div class="thumbnail">
+							<div class="image-wrapp">
+								<img src="../static/images/work1.jpg" alt="Portfolio name" title="">
+								<article class="da-animate da-slideFromRight" style="display: block;">
+								<a class="link_post" href="http://wbpreview.com/previews/WB013995G/portfolio-detail.html"><img src="../static/images/link_post_icon.png" alt=""></a>
+								<span><a class="zoom" data-pretty="prettyPhoto" href="../static/images/big1.jpg"><img src="../static/images/zoom_icon.png" alt="Portfolio name" title="Portfolio name"></a></span>
+								</article>
+							</div>
+							<div class="caption" style="padding-top:4px;padding-bottom:4px">
+								<h5>Primary maths</h5>
+							</div>
+						</div>
+						</li>
+						<li style="margin-right: 30px; width: 270px; height:240px">
+						<div class="thumbnail">
+							<div class="image-wrapp">
+								<img src="../static/images/work2.jpg" alt="Portfolio name" title="">
+								<article class="da-animate da-slideFromRight" style="display: block;">
+								<a class="link_post" href="http://wbpreview.com/previews/WB013995G/portfolio-detail.html"><img src="../static/images/link_post_icon.png" alt=""></a>
+								<span><a class="zoom" data-pretty="prettyPhoto" href="../static/images/big1.jpg"><img src="../static/images/zoom_icon.png" alt="Portfolio name" title="Portfolio name"></a></span>
+								</article>
+							</div>
+							<div class="caption" style="padding-top:4px;padding-bottom:4px">
+								<h5>Differentiated instruction</h5>
+							</div>
+						</div>
+						</li>
+						<li style="margin-right: 30px; width: 270px; height:240px">
+						<div class="thumbnail">
+							<div class="image-wrapp">
+								<img src="../static/images/work3.jpg" alt="Portfolio name" title="">
+								<article class="da-animate da-slideFromRight" style="display: block;">
+								<a class="link_post" href="http://wbpreview.com/previews/WB013995G/portfolio-detail.html"><img src="../static/images/link_post_icon.png" alt=""></a>
+								<span><a class="zoom" data-pretty="prettyPhoto" href="../static/images/big1.jpg"><img src="../static/images/zoom_icon.png" alt="Portfolio name" title="Portfolio name"></a></span>
+								</article>
+							</div>
+							<div class="caption" style="padding-top:4px;padding-bottom:4px">
+								<h5>Inquiry based learning</h5>
+							</div>
+						</div>
+						</li>
+						<li style="margin-right: 30px; width: 270px; height:240px">
+						<div class="thumbnail">
+							<div class="image-wrapp">
+								<img src="../static/images/work4.jpg" alt="Portfolio name" title="">
+								<article class="da-animate da-slideFromRight" style="display: block;">
+								<a class="link_post" href="http://wbpreview.com/previews/WB013995G/portfolio-detail.html"><img src="../static/images/link_post_icon.png" alt=""></a>
+								<span><a class="zoom" data-pretty="prettyPhoto" href="../static/images/big1.jpg"><img src="../static/images/zoom_icon.png" alt="Portfolio name" title="Portfolio name"></a></span>
+								</article>
+							</div>
+							<div class="caption" style="padding-top:4px;padding-bottom:4px">
+								<h5>Bully free classroom</h5>
+							</div>
+						</div>
+						</li>
+						<li style="margin-right: 30px; width: 270px; height:240px">
+						<div class="thumbnail">
+							<div class="image-wrapp">
+								<img src="../static/images/work5.jpg" alt="Portfolio name" title="">
+								<article class="da-animate da-slideFromRight" style="display: block;">
+								<a class="link_post" href="http://wbpreview.com/previews/WB013995G/portfolio-detail.html"><img src="../static/images/link_post_icon.png" alt=""></a>
+								<span><a class="zoom" data-pretty="prettyPhoto" href="http://wbpreview.com/previews/WB013995G/assets/img/dummies/big1.jpg"><img src="../static/images/zoom_icon.png" alt="Portfolio name" title="Portfolio name"></a></span>
+								</article>
+							</div>
+							<div class="caption" style="padding-top:4px;padding-bottom:4px">
+								<h5>Sensitivity in schools</h5>
+							</div>
+						</div>
+						</li>
+						<li style="margin-right: 30px; width: 270px; height:240px">
+						<div class="thumbnail">
+							<div class="image-wrapp">
+								<img src="../static/images/work6.jpg" alt="Portfolio name" title="">
+								<article class="da-animate da-slideFromRight" style="display: block;">
+								<a class="link_post" href="http://wbpreview.com/previews/WB013995G/portfolio-detail.html"><img src="../static/images/link_post_icon.png" alt=""></a>
+								<span><a class="zoom" data-pretty="prettyPhoto" href="http://wbpreview.com/previews/WB013995G/assets/img/dummies/big1.jpg"><img src="../static/images/zoom_icon.png" alt="Portfolio name" title="Portfolio name"></a></span>
+								</article>
+							</div>
+							<div class="caption" style="padding-top:4px;padding-bottom:4px">
+								<h5>Society and education</h5>
+							</div>
+						</div>
+						</li>
+						<li style="margin-right: 30px; width: 270px; height:240px">
+						<div class="thumbnail">
+							<div class="image-wrapp">
+								<img src="../static/images/work7.jpg" alt="Portfolio name" title="">
+								<article class="da-animate da-slideFromRight" style="display: block;">
+								<a class="link_post" href="http://wbpreview.com/previews/WB013995G/portfolio-detail.html"><img src="../static/images/link_post_icon.png" alt=""></a>
+								<span><a class="zoom" data-pretty="prettyPhoto" href="http://wbpreview.com/previews/WB013995G/assets/img/dummies/big1.jpg"><img src="../static/images/zoom_icon.png" alt="Portfolio name" title="Portfolio name"></a></span>
+								</article>
+							</div>
+							<div class="caption" style="padding-top:4px;padding-bottom:4px">
+								<h5>Secondary English</h5>
+							</div>
+						</div>
+						</li>
+						<li style="margin-right: 30px; width: 270px; height:240px">
+						<div class="thumbnail">
+							<div class="image-wrapp">
+								<img src="../static/images/work8.jpg" alt="Portfolio name" title="">
+								<article class="da-animate da-slideFromRight" style="display: block;">
+								<a class="link_post" href="http://wbpreview.com/previews/WB013995G/portfolio-detail.html"><img src="../static/images/link_post_icon.png" alt=""></a>
+								<span><a class="zoom" data-pretty="prettyPhoto" href="../static/images/big1.jpg"><img src="../static/images/zoom_icon.png" alt="Portfolio name" title="Portfolio name"></a></span>
+								</article>
+							</div>
+							<div class="caption" style="padding-top:4px;padding-bottom:4px">
+								<h5>Classroom management</h5>
+							</div>
+						</div>
+						</li>
+					</ul>
+				</div>
+			<div class="es-nav"><span style="opacity: 0.5;" class="es-nav-prev">Previous</span><span style="opacity: 1;" class="es-nav-next">Next</span></div></div>
+		</div>
+	</div>
+</div>
+</section>
+<section id="bottom" style="margin-top:-65px">
+<div class="container">
+	<div class="row">
+		<div class="span12">
+			<h3 class="heading-success"><span class="btn btn-small btn-success" style="padding: 0px 2px"><i class="m-icon-big-swapdown m-icon-white"></i></span>&nbsp;&nbsp;Lesson Plans</h3>
+			<div id="latest-work" class="carousel btleft">
+				<div class="carousel-wrapper">
+					<ul style="width: 2400px; display: block; margin-left: 0px;" class="portfolio-home da-thumbs">
+						<li style="margin-right: 30px; width: 270px; height:240px">
+						<div class="thumbnail">
+							<div class="image-wrapp">
+								<img src="../static/images/work1.jpg" alt="Portfolio name" title="">
+								<article class="da-animate da-slideFromRight" style="display: block;">
+								<a class="link_post" href="http://wbpreview.com/previews/WB013995G/portfolio-detail.html"><img src="../static/images/link_post_icon.png" alt=""></a>
+								<span><a class="zoom" data-pretty="prettyPhoto" href="../static/images/big1.jpg"><img src="../static/images/zoom_icon.png" alt="Portfolio name" title="Portfolio name"></a></span>
+								</article>
+							</div>
+							<div class="caption" style="padding-top:4px;padding-bottom:4px">
+								<h5>Force - Class VIII</h5>
+							</div>
+						</div>
+						</li>
+						<li style="margin-right: 30px; width: 270px; height:240px">
+						<div class="thumbnail">
+							<div class="image-wrapp">
+								<img src="../static/images/work2.jpg" alt="Portfolio name" title="">
+								<article class="da-animate da-slideFromRight" style="display: block;">
+								<a class="link_post" href="http://wbpreview.com/previews/WB013995G/portfolio-detail.html"><img src="../static/images/link_post_icon.png" alt=""></a>
+								<span><a class="zoom" data-pretty="prettyPhoto" href="../static/images/big1.jpg"><img src="../static/images/zoom_icon.png" alt="Portfolio name" title="Portfolio name"></a></span>
+								</article>
+							</div>
+							<div class="caption" style="padding-top:4px;padding-bottom:4px">
+								<h5>Gravity - Class IX</h5>
+							</div>
+						</div>
+						</li>
+						<li style="margin-right: 30px; width: 270px; height:240px">
+						<div class="thumbnail">
+							<div class="image-wrapp">
+								<img src="../static/images/work3.jpg" alt="Portfolio name" title="">
+								<article class="da-animate da-slideFromRight" style="display: block;">
+								<a class="link_post" href="http://wbpreview.com/previews/WB013995G/portfolio-detail.html"><img src="../static/images/link_post_icon.png" alt=""></a>
+								<span><a class="zoom" data-pretty="prettyPhoto" href="../static/images/big1.jpg"><img src="../static/images/zoom_icon.png" alt="Portfolio name" title="Portfolio name"></a></span>
+								</article>
+							</div>
+							<div class="caption" style="padding-top:4px;padding-bottom:4px">
+								<h5>Voice - Enlighs VI</h5>
+							</div>
+						</div>
+						</li>
+						<li style="margin-right: 30px; width: 270px; height:240px">
+						<div class="thumbnail">
+							<div class="image-wrapp">
+								<img src="../static/images/work4.jpg" alt="Portfolio name" title="">
+								<article class="da-animate da-slideFromRight" style="display: block;">
+								<a class="link_post" href="http://wbpreview.com/previews/WB013995G/portfolio-detail.html"><img src="../static/images/link_post_icon.png" alt=""></a>
+								<span><a class="zoom" data-pretty="prettyPhoto" href="../static/images/big1.jpg"><img src="../static/images/zoom_icon.png" alt="Portfolio name" title="Portfolio name"></a></span>
+								</article>
+							</div>
+							<div class="caption" style="padding-top:4px;padding-bottom:4px">
+								<h5>Mutiplying fractions</h5>
+							</div>
+						</div>
+						</li>
+						<li style="margin-right: 30px; width: 270px; height:240px">
+						<div class="thumbnail">
+							<div class="image-wrapp">
+								<img src="../static/images/work5.jpg" alt="Portfolio name" title="">
+								<article class="da-animate da-slideFromRight" style="display: block;">
+								<a class="link_post" href="http://wbpreview.com/previews/WB013995G/portfolio-detail.html"><img src="../static/images/link_post_icon.png" alt=""></a>
+								<span><a class="zoom" data-pretty="prettyPhoto" href="http://wbpreview.com/previews/WB013995G/assets/img/dummies/big1.jpg"><img src="../static/images/zoom_icon.png" alt="Portfolio name" title="Portfolio name"></a></span>
+								</article>
+							</div>
+							<div class="caption" style="padding-top:4px;padding-bottom:4px">
+								<h5>Portfolio name</h5>
+							</div>
+						</div>
+						</li>
+						<li style="margin-right: 30px; width: 270px; height:240px">
+						<div class="thumbnail">
+							<div class="image-wrapp">
+								<img src="../static/images/work6.jpg" alt="Portfolio name" title="">
+								<article class="da-animate da-slideFromRight" style="display: block;">
+								<a class="link_post" href="http://wbpreview.com/previews/WB013995G/portfolio-detail.html"><img src="../static/images/link_post_icon.png" alt=""></a>
+								<span><a class="zoom" data-pretty="prettyPhoto" href="http://wbpreview.com/previews/WB013995G/assets/img/dummies/big1.jpg"><img src="../static/images/zoom_icon.png" alt="Portfolio name" title="Portfolio name"></a></span>
+								</article>
+							</div>
+							<div class="caption" style="padding-top:4px;padding-bottom:4px">
+								<h5>Portfolio name</h5>
+							</div>
+						</div>
+						</li>
+						<li style="margin-right: 30px; width: 270px; height:240px">
+						<div class="thumbnail">
+							<div class="image-wrapp">
+								<img src="../static/images/work7.jpg" alt="Portfolio name" title="">
+								<article class="da-animate da-slideFromRight" style="display: block;">
+								<a class="link_post" href="http://wbpreview.com/previews/WB013995G/portfolio-detail.html"><img src="../static/images/link_post_icon.png" alt=""></a>
+								<span><a class="zoom" data-pretty="prettyPhoto" href="http://wbpreview.com/previews/WB013995G/assets/img/dummies/big1.jpg"><img src="../static/images/zoom_icon.png" alt="Portfolio name" title="Portfolio name"></a></span>
+								</article>
+							</div>
+							<div class="caption" style="padding-top:4px;padding-bottom:4px">
+								<h5>Portfolio name</h5>
+							</div>
+						</div>
+						</li>
+						<li style="margin-right: 30px; width: 270px; height:240px">
+						<div class="thumbnail">
+							<div class="image-wrapp">
+								<img src="../static/images/work8.jpg" alt="Portfolio name" title="">
+								<article class="da-animate da-slideFromRight" style="display: block;">
+								<a class="link_post" href="http://wbpreview.com/previews/WB013995G/portfolio-detail.html"><img src="../static/images/link_post_icon.png" alt=""></a>
+								<span><a class="zoom" data-pretty="prettyPhoto" href="../static/images/big1.jpg"><img src="../static/images/zoom_icon.png" alt="Portfolio name" title="Portfolio name"></a></span>
+								</article>
+							</div>
+							<div class="caption" style="padding-top:4px;padding-bottom:4px">
+								<h5>Portfolio name</h5>
+							</div>
+						</div>
+						</li>
+					</ul>
+				</div>
+		</div>
+	</div>
+</div>
+</section>
+<footer class="footer">
+<div class="container">
+	<div class="row">
+		<div class="span1.5" style="height:20px">
+			<h5>About Us</h5>
+		</div>
+		<div class="span1.5" style="height:20px">
+			<h5>Terms of Service</h5>
+		</div>
+		<div class="span1.5" style="height:20px">
+				<h5>Privacy policy</h5>
+		</div>
+		<div class="span6" style="height:20px">
+				<h5></h5>
+		</div>
+		<div class="span1.5" style="height:20px">
+				<h5></h5>
+		</div>
+		<div class="span1.5" style="height:20px">
+				<h5>Built on <a>edX</a></h5>
+		</div>
+		
+	</div>
+</div>
+</footer>
+<script>
+(function(){
+// Append a close trigger for each block
+$('.box-tile .content').append('<span class="close">x</span>');
+// Show window
+function showContent(elem){
+hideContent();
+elem.find('.content').addClass('expanded');
+elem.addClass('cover');
+}
+// Reset all
+function hideContent(){
+$('.box-tile  .content').removeClass('expanded');
+$('.box-tile  li').removeClass('cover');
+}
+// When a li is clicked, show its content window and position it above all
+$('.box-tile  li').click(function() {
+showContent($(this));
+});
+// When tabbing, show its content window using ENTER key
+$('.box-tile  li').keypress(function(e) {
+if (e.keyCode == 13) {
+showContent($(this));
+}
+});
+// When right upper close element is clicked  - reset all
+$('.box-tile  .close').click(function(e) {
+e.stopPropagation();
+hideContent();
+});
+// Also, when ESC key is pressed - reset all
+$(document).keyup(function(e) {
+if (e.keyCode == 27) {
+hideContent();
+}
+});
+})();
+</script>
+
+</body></html>
